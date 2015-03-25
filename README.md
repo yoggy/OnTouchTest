@@ -4,7 +4,8 @@ OnTouchTest
 
 Google Play Store
 
-* https://play.google.com/store/apps/details?id=net.sabamiso.android.ontouchtest
+  * https://play.google.com/store/apps/details?id=net.sabamiso.android.ontouchtest
+
 result
 ----
 
